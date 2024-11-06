@@ -11,7 +11,7 @@ function App() {
           alt="Pokemon Logo"
           className="App-logo"
         />
-        <h1 className="App-title">Pokemon Card</h1>
+        <h1 className="App-title">Pokemon List</h1>
       </header>
       <PokemonList />
     </div>
